@@ -101,7 +101,7 @@ const Scene = () => {
   return (
     <Suspense fallback={
       <Html style={{ fontSize: '6vw', whiteSpace: 'nowrap', color: 'white' }} center>
-        Loading 3D Art Gallery...
+        Loading Dwellers...
       </Html>
     }>
       <ScrollControls infinite horizontal damping={4} pages={39*Math.exp(-0.11 * screenWidth) } distance={1}>
