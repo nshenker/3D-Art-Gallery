@@ -14,44 +14,32 @@ const ART_PIECES = [
     imgPath: '/crane.jpeg',
   },
   {
-    title: 'Foxy',
+    title: 'AK',
     imgPath: '/foxy.jpeg',
   },
   {
-    title: 'Gentle Giant',
+    title: 'Gone Forever',
     imgPath: '/horse_sketch.jpeg',
   },
   {
-    title: 'Purity',
+    title: 'Todd Lewis',
     imgPath: '/kindness.jpeg',
   },
   {
-    title: 'Lonely Together',
+    title: 'NFTSundae',
     imgPath: '/lonely_together.jpeg',
   },
   {
-    title: 'Owl',
+    title: 'Augie',
     imgPath: '/owl.jpeg',
   },
   {
-    title: 'Menace',
+    title: 'Shanksy',
     imgPath: '/panther.jpeg',
   },
   {
-    title: 'Paradise',
+    title: 'Fin',
     imgPath: '/paradise.jpeg',
-  },
-  {
-    title: 'Friendship',
-    imgPath: '/sprited_away.jpeg',
-  },
-  {
-    title: 'Wanderlust',
-    imgPath: '/wonder.jpeg',
-  },
-  {
-    title: 'Serenity',
-    imgPath: '/forest.jpeg',
   },
 ]
 
