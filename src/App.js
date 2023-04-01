@@ -10,7 +10,7 @@ const ART_PIECES = [
     imgPath: '/beauty_and_beast.jpeg',
   },
   {
-    title: 'Stillness',
+    title: 'Arch',
     imgPath: '/crane.jpeg',
   },
   {
