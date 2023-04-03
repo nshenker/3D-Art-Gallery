@@ -18,7 +18,7 @@ const ART_PIECES = [
     imgPath: '/foxy.jpeg',
   },
   {
-    title: 'SOL_Gen_Crypto',
+    title: 'SOL Gen Crypto',
     imgPath: '/horse_sketch.jpeg',
   },
   {
