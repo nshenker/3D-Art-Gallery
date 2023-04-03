@@ -18,7 +18,7 @@ const ART_PIECES = [
     imgPath: '/foxy.jpeg',
   },
   {
-    title: 'Gone Forever',
+    title: 'SOL_Gen_Crypto',
     imgPath: '/horse_sketch.jpeg',
   },
   {
